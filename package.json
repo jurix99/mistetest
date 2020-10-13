@@ -1,0 +1,19 @@
+{
+  "name": "firstwebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jurix99/mistetest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jurix99/mistetest/issues"
+  },
+  "homepage": "https://github.com/jurix99/mistetest#readme"
+}
